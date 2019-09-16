@@ -1,0 +1,11 @@
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\bin\Debug\netcoreapp2.1\Ex160.deps.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\bin\Debug\netcoreapp2.1\Ex160.runtimeconfig.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\bin\Debug\netcoreapp2.1\Ex160.runtimeconfig.dev.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\bin\Debug\netcoreapp2.1\Ex160.dll
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\bin\Debug\netcoreapp2.1\Ex160.pdb
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.csprojAssemblyReference.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.AssemblyInfoInputs.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.AssemblyInfo.cs
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.dll
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\program\Ex160\Ex160\obj\Debug\netcoreapp2.1\Ex160.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\bin\Debug\netcoreapp2.1\Ex135-3.deps.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\bin\Debug\netcoreapp2.1\Ex135-3.runtimeconfig.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\bin\Debug\netcoreapp2.1\Ex135-3.runtimeconfig.dev.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\bin\Debug\netcoreapp2.1\Ex135-3.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\bin\Debug\netcoreapp2.1\Ex135-3.pdb
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.csprojAssemblyReference.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.csproj.CoreCompileInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.AssemblyInfoInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.AssemblyInfo.cs
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135-3\obj\Debug\netcoreapp2.1\Ex135-3.pdb

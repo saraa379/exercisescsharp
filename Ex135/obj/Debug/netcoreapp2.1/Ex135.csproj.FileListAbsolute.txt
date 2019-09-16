@@ -1,0 +1,11 @@
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.csprojAssemblyReference.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.csproj.CoreCompileInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.AssemblyInfoInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.AssemblyInfo.cs
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\bin\Debug\netcoreapp2.1\Ex135.deps.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\bin\Debug\netcoreapp2.1\Ex135.runtimeconfig.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\bin\Debug\netcoreapp2.1\Ex135.runtimeconfig.dev.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\bin\Debug\netcoreapp2.1\Ex135.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\bin\Debug\netcoreapp2.1\Ex135.pdb
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex135\obj\Debug\netcoreapp2.1\Ex135.pdb

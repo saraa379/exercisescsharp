@@ -1,0 +1,10 @@
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\bin\Debug\netcoreapp2.1\Ex160-11.deps.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\bin\Debug\netcoreapp2.1\Ex160-11.runtimeconfig.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\bin\Debug\netcoreapp2.1\Ex160-11.runtimeconfig.dev.json
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\bin\Debug\netcoreapp2.1\Ex160-11.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\bin\Debug\netcoreapp2.1\Ex160-11.pdb
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\obj\Debug\netcoreapp2.1\Ex160-11.csproj.CoreCompileInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\obj\Debug\netcoreapp2.1\Ex160-11.AssemblyInfoInputs.cache
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\obj\Debug\netcoreapp2.1\Ex160-11.AssemblyInfo.cs
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\obj\Debug\netcoreapp2.1\Ex160-11.dll
+C:\Users\Sara-PC\Documents\Education\CampusMolndal\C#\program\Ex160-11\obj\Debug\netcoreapp2.1\Ex160-11.pdb
